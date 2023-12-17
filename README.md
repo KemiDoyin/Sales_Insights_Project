@@ -81,6 +81,9 @@ Customers who do not generate much revenue or run into a loss should engage in p
 
 ---------
 
+Interact with the dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiMTE0MmY0NjktOWJjYy00MzRhLWE3ZDMtMmQxNGE1NWUyZjU5IiwidCI6ImFiYjU3ODg3LTNmY2ItNDgyNy1iODJiLThiZjU4ZWRjNTlhYSJ9)
+
+
 ***Thank you 😄***
 
 
